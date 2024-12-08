@@ -1,0 +1,4 @@
+﻿  MainForm.cpp
+C:\Users\ASUS\Desktop\Laboratorny4 — копия\Laboratorny4\MainForm.cpp(57,20): warning C4101: e: неиспользованная локальная переменная
+  AddUserForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Laboratorny4.vcxproj -> C:\Users\ASUS\Desktop\Laboratorny4 — копия\x64\Debug\Laboratorny4.exe

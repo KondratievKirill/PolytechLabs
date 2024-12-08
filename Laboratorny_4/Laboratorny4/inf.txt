@@ -1,0 +1,3 @@
+Kirill	10	100
+Oleg	100	10
+Angle	12	100

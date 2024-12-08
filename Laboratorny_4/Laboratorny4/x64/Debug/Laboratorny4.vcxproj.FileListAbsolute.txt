@@ -1,0 +1,10 @@
+C:\Users\ASUS\Desktop\Laboratorny4\Laboratorny4\x64\Debug\Laboratorny4.vcxproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Laboratorny4\Laboratorny4\x64\Debug\Laboratorny4.MainForm.resources
+C:\Users\ASUS\Desktop\Laboratorny4\Laboratorny4\x64\Debug\Laboratorny4.vcxproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\Laboratorny4\Laboratorny4\x64\Debug\Laboratorny4.AddUserForm.resources
+C:\Users\ASUS\Desktop\Laboratorny4\Laboratorny4\x64\Debug\Laboratorny4.DataForm.resources
+C:\Users\ASUS\Desktop\Laboratorny4 — копия\Laboratorny4\x64\Debug\Laboratorny4.vcxproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Laboratorny4 — копия\Laboratorny4\x64\Debug\Laboratorny4.AddUserForm.resources
+C:\Users\ASUS\Desktop\Laboratorny4 — копия\Laboratorny4\x64\Debug\Laboratorny4.DataForm.resources
+C:\Users\ASUS\Desktop\Laboratorny4 — копия\Laboratorny4\x64\Debug\Laboratorny4.MainForm.resources
+C:\Users\ASUS\Desktop\Laboratorny4 — копия\Laboratorny4\x64\Debug\Laboratorny4.vcxproj.GenerateResource.cache

@@ -1,0 +1,3 @@
+Kirill	10	100
+Kirill	100	10
+Oleg	10	100
