@@ -1,0 +1,20 @@
+C:\Users\ASUS\Desktop\Laboratorny4\Laboratorny4\x64\Debug\Laboratorny4.vcxproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Laboratorny4\Laboratorny4\x64\Debug\Laboratorny4.MainForm.resources
+C:\Users\ASUS\Desktop\Laboratorny4\Laboratorny4\x64\Debug\Laboratorny4.vcxproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\Laboratorny4\Laboratorny4\x64\Debug\Laboratorny4.AddUserForm.resources
+C:\Users\ASUS\Desktop\Laboratorny4\Laboratorny4\x64\Debug\Laboratorny4.DataForm.resources
+C:\Users\ASUS\Desktop\Laboratorny4 — копия\Laboratorny4\x64\Debug\Laboratorny4.vcxproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Laboratorny4 — копия\Laboratorny4\x64\Debug\Laboratorny4.AddUserForm.resources
+C:\Users\ASUS\Desktop\Laboratorny4 — копия\Laboratorny4\x64\Debug\Laboratorny4.DataForm.resources
+C:\Users\ASUS\Desktop\Laboratorny4 — копия\Laboratorny4\x64\Debug\Laboratorny4.MainForm.resources
+C:\Users\ASUS\Desktop\Laboratorny4 — копия\Laboratorny4\x64\Debug\Laboratorny4.vcxproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\Laboratorny5\Laboratorny4\x64\Debug\Laboratorny4.vcxproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Laboratorny5\Laboratorny4\x64\Debug\Laboratorny4.AddUserForm.resources
+C:\Users\ASUS\Desktop\Laboratorny5\Laboratorny4\x64\Debug\Laboratorny4.DataForm.resources
+C:\Users\ASUS\Desktop\Laboratorny5\Laboratorny4\x64\Debug\Laboratorny4.MainForm.resources
+C:\Users\ASUS\Desktop\Laboratorny5\Laboratorny4\x64\Debug\Laboratorny4.vcxproj.GenerateResource.cache
+C:\Users\kdkon\OneDrive\Рабочий стол\Laboratorny5\Laboratorny4\x64\Debug\Laboratorny4.vcxproj.AssemblyReference.cache
+C:\Users\kdkon\OneDrive\Рабочий стол\Laboratorny5\Laboratorny4\x64\Debug\Laboratorny4.AddUserForm.resources
+C:\Users\kdkon\OneDrive\Рабочий стол\Laboratorny5\Laboratorny4\x64\Debug\Laboratorny4.DataForm.resources
+C:\Users\kdkon\OneDrive\Рабочий стол\Laboratorny5\Laboratorny4\x64\Debug\Laboratorny4.MainForm.resources
+C:\Users\kdkon\OneDrive\Рабочий стол\Laboratorny5\Laboratorny4\x64\Debug\Laboratorny4.vcxproj.GenerateResource.cache
